@@ -9,8 +9,6 @@ I'm focused on building practical projects, strengthening my backend development
 ---
 
 
----
-
 ### 🛠️ Tech Stack
 
 #### Frontend
@@ -70,3 +68,22 @@ The platform provides pilot management, flight scheduling, flight booking, PIREP
 <br>
 
 **API:** JSON Server • REST API
+
+<br>
+
+**Key Features**
+
+- 👨‍✈️ Pilot registration and management
+- ✈️ Flight scheduling and booking
+- 📝 PIREP submission and review
+- 📋 Pilot application management
+- 📰 News and announcements
+- 🛡️ Administrative dashboard
+
+  <br>
+
+**Project Links**
+
+🌐 **Live Demo:** Coming soon
+
+💻 **Source Code:** Coming soon
