@@ -84,6 +84,8 @@ The platform provides pilot management, flight scheduling, flight booking, PIREP
 
 **Project Links**
 
-🌐 **Live Demo:** Coming soon
+🌐 **Live Demo:** 
+[🌐 Visit British Airways Virtual](https://british-airways-virtual.onrender.com)
 
-💻 **Source Code:** Coming soon
+💻 **Source Code:** 
+[GitHub Repository](YOUR_GITHUB_REPO_URL)
