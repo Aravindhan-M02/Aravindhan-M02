@@ -9,10 +9,9 @@ I'm focused on building practical projects, strengthening my backend development
 ---
 
 
+---
 
 ### 🛠️ Tech Stack
-
-
 
 #### Frontend
 
@@ -48,6 +47,8 @@ I'm focused on building practical projects, strengthening my backend development
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
 </p>
 
+<br><br>
+
 ---
 
 ### 🚀 Featured Project
@@ -58,10 +59,14 @@ A modern virtual airline management platform built with **React**, **Vite**, and
 
 The platform provides pilot management, flight scheduling, flight booking, PIREP submission, application management, and administrative operations.
 
+<br>
+
 **Tech Stack**
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,js,vite" />
 </p>
+
+<br>
 
 **API:** JSON Server • REST API
