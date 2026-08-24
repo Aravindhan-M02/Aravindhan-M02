@@ -12,7 +12,7 @@ I'm focused on building practical projects, strengthening my backend development
 
 ### 🛠️ Tech Stack
 
-
+<br>
 #### Frontend
 
 <p>
@@ -46,3 +46,13 @@ I'm focused on building practical projects, strengthening my backend development
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
 </p>
+
+---
+
+### 🚀 Featured Project
+
+#### ✈️ British Airways Virtual
+
+A modern virtual airline management platform built with **React**, **Vite**, and a **REST API powered by JSON Server**.
+
+The platform provides pilot management, flight scheduling, flight booking, PIREP submission, application management, and administrative operations.
