@@ -57,3 +57,11 @@ I'm focused on building practical projects, strengthening my backend development
 A modern virtual airline management platform built with **React**, **Vite**, and a **REST API powered by JSON Server**.
 
 The platform provides pilot management, flight scheduling, flight booking, PIREP submission, application management, and administrative operations.
+
+**Tech Stack**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,vite" />
+</p>
+
+**API:** JSON Server • REST API
