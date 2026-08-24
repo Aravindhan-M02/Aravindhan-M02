@@ -8,7 +8,10 @@ I'm focused on building practical projects, strengthening my backend development
 
 ---
 
+
+
 ### 🛠️ Tech Stack
+
 
 #### Frontend
 
@@ -16,8 +19,30 @@ I'm focused on building practical projects, strengthening my backend development
   <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap" />
 </p>
 
-**Backend:** Java • Spring Boot • REST APIs
+<br>
 
-**Database:** MySQL
+#### Backend
 
-**Tools:** Git • GitHub • VS Code • IntelliJ IDEA
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring" />
+</p>
+
+<p>
+  <strong>REST APIs</strong>
+</p>
+
+<br>
+
+#### Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+<br>
+
+#### Tools & Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
+</p>
