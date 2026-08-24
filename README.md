@@ -10,7 +10,11 @@ I'm focused on building practical projects, strengthening my backend development
 
 ### 🛠️ Tech Stack
 
-**Frontend:** React • JavaScript • HTML5 • CSS3 • Bootstrap
+#### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap" />
+</p>
 
 **Backend:** Java • Spring Boot • REST APIs
 
