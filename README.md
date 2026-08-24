@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Aravindh 👋
 
-<!--
-**Aravindhan-M02/Aravindhan-M02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer 💻
 
-Here are some ideas to get you started:
+I build modern web applications using **React, Java, Spring Boot, and MySQL**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm focused on building practical projects, strengthening my backend development skills, and continuously expanding my technical skills.
+
+---
+
+### 🛠️ Tech Stack
+
+**Frontend:** React • JavaScript • HTML5 • CSS3 • Bootstrap
+
+**Backend:** Java • Spring Boot • REST APIs
+
+**Database:** MySQL
+
+**Tools:** Git • GitHub • VS Code • IntelliJ IDEA
