@@ -12,7 +12,8 @@ I'm focused on building practical projects, strengthening my backend development
 
 ### 🛠️ Tech Stack
 
-<br>
+
+
 #### Frontend
 
 <p>
