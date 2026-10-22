@@ -63,6 +63,36 @@ The work includes income and expense tracking, PDF exports, Google sign-in, acco
 
 </details>
 
+<details>
+<summary><b>🦅 Inside Gastornis — digital products and software</b></summary>
+
+<br />
+
+Gastornis brings together my work on digital experiences,
+software projects, and custom technology solutions.
+
+It reflects my interest in turning practical ideas into
+thoughtful, usable products.
+
+[Explore Gastornis →](https://gastornis.onrender.com/)
+
+</details>
+
+<details>
+<summary><b>💻 Inside my portfolio — projects, skills and development</b></summary>
+
+<br />
+
+My personal portfolio brings together my projects,
+technical skills, and work as a full stack developer.
+
+Explore my experience with React, Java, Spring Boot,
+MySQL, and the applications I'm building.
+
+[Explore my portfolio →](https://portfolio-sh1a.onrender.com/)
+
+</details>
+
 ## My development toolkit
 
 | Area | Technologies |
