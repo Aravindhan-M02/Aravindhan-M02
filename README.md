@@ -11,9 +11,9 @@
 
 ## A little about me
 
-I'm **Aravindh**, a full stack developer building practical applications with **React, Java, Spring Boot and MySQL**. I enjoy connecting thoughtful interfaces with the APIs and data behind them.
+I'm **Aravindh**, a full stack developer building practical applications with **React, Python, FastAPI, Java, Spring Boot and MySQL**. I enjoy connecting thoughtful interfaces with the APIs and data behind them.
 
-Right now, I'm strengthening my backend development skills, building out **PennyPilot**, and creating digital experiences through **Gastornis**. I learn by building, testing, and improving real projects.
+Right now, I'm strengthening my backend development skills, building **ForecastLab** for NSE stock-price research, developing **PennyPilot**, and creating digital experiences through **Gastornis**. I learn by building, testing, and improving real projects.
 
 > Thoughtful interfaces. Practical backends. Always something new to build.
 
@@ -29,6 +29,9 @@ Click a project card to open its website.
   <tr>
     <td><a href="https://portfolio-sh1a.onrender.com/"><img src="./assets/portfolio.png" width="100%" alt="Developer portfolio — projects, skills and development work. Open my portfolio." /></a></td>
     <td><a href="https://pennypilot-website.onrender.com/"><img src="./assets/pennypilot.png" width="100%" alt="PennyPilot — personal finance project, support and privacy website. Open the website." /></a></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><a href="https://forecastlab-3k7k.onrender.com/"><img src="./assets/forecastlab.svg" width="50%" alt="ForecastLab — experimental NSE stock forecasts, saved price charts and a personal watchlist. Open the saved-data demo." /></a></td>
   </tr>
 </table>
 
@@ -93,17 +96,36 @@ MySQL, and the applications I'm building.
 
 </details>
 
+<details>
+<summary><b>📈 Inside ForecastLab — NSE stock forecasting</b></summary>
+
+<br />
+
+ForecastLab is my stock-market research project built with **React**, **Vite**, **Python**, **FastAPI**, and **XGBoost**.
+
+- **After-market estimates** — experimental opening and closing price estimates for the next trading session, with an expected move based on the closing estimate.
+- **Saved market charts** — daily price history, candlestick views and NSE index snapshots.
+- **Personal watchlist** — stocks saved automatically in the same browser.
+- **Clear context** — dated forecasts, past prediction errors and visible risk notices.
+
+The hosted version is a **saved-data demo**, with expired forecasts shown only as historical examples. It does not generate fresh forecasts automatically, and its estimates are not guaranteed trading advice. Pre-market forecasting and further model evaluation are planned.
+
+[Explore ForecastLab →](https://forecastlab-3k7k.onrender.com/)
+
+</details>
+
 ## My development toolkit
 
 | Area | Technologies |
 | :--- | :--- |
 | **Frontend** | React · JavaScript · HTML · CSS · Bootstrap · Vite |
-| **Backend** | Java · Spring Boot · REST APIs |
+| **Backend** | Python · FastAPI · Java · Spring Boot · REST APIs |
+| **Machine learning** | XGBoost · scikit-learn · NumPy |
 | **Database** | MySQL |
 | **Tools** | Git · GitHub · VS Code · IntelliJ IDEA |
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,vite,java,spring,mysql,git,github,vscode,idea&amp;theme=dark&amp;perline=7" alt="React, JavaScript, HTML, CSS, Bootstrap, Vite, Java, Spring, MySQL, Git, GitHub, VS Code and IntelliJ IDEA" />
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,vite,python,fastapi,java,spring,mysql,git,github,vscode,idea&amp;theme=dark&amp;perline=7" alt="React, JavaScript, HTML, CSS, Bootstrap, Vite, Python, FastAPI, Java, Spring, MySQL, Git, GitHub, VS Code and IntelliJ IDEA" />
 </p>
 
 <details>
@@ -115,6 +137,7 @@ MySQL, and the applications I'm building.
 - Improving database design and reliable data handling.
 - Making interfaces clearer, responsive and pleasant to use.
 - Taking projects from local development to deployment.
+- Developing pre-market forecasting and evaluating ForecastLab models.
 - Preparing PennyPilot's backend hosting and future membership integration.
 
 </details>
