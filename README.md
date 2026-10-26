@@ -31,7 +31,7 @@ Click a project card to open its website.
     <td><a href="https://pennypilot-website.onrender.com/"><img src="./assets/pennypilot.png" width="100%" alt="PennyPilot — personal finance project, support and privacy website. Open the website." /></a></td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><a href="https://forecastlab-3k7k.onrender.com/"><img src="./assets/forecastlab.svg" width="50%" alt="ForecastLab — experimental NSE stock forecasts, saved price charts and a personal watchlist. Open the saved-data demo." /></a></td>
+    <td colspan="2" align="center"><a href="https://forecastlab-3k7k.onrender.com/"><img src="./assets/forecastlab-live.svg" width="50%" alt="ForecastLab — experimental NSE stock forecasts, saved price charts and a personal watchlist. Open the saved-data demo." /></a></td>
   </tr>
 </table>
 
